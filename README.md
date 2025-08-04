@@ -50,14 +50,6 @@ A simple BepInEx mod that adds customizable crosshairs to Mage Arena with 7 shap
 - **Platform**: Windows 7/8/10/11 (64-bit)
 - **Performance**: <0.5% FPS impact
 
-## Building
-
-```bash
-git clone https://github.com/yourusername/CustomCrosshairs.git
-cd CustomCrosshairs
-dotnet build --configuration Release
-```
-
 ## License
 
 MIT License - see LICENSE file for details.
