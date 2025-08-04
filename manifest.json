@@ -1,0 +1,9 @@
+{
+  "name": "CustomCrosshairs",
+  "website_url": "https://github.com/cheekyentity/custom-crosshairs",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100"
+  ],
+  "description": "A customizable crosshair mod for Mage Arena with 7 different shapes, colors, and adjustable properties.",
+  "version_number": "1.0.0"
+}
